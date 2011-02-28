@@ -1,0 +1,9 @@
+{
+	"id": "com.creationix.divclock",
+	"version": "0.0.1",
+	"vendor": "Creationix",
+	"type": "web",
+	"main": "index.html",
+	"title": "Div Clock",
+	"icon": "icon.png"
+}
